@@ -15,7 +15,7 @@ class MainActivity : AppCompatActivity() {
 
         clickMeButton.setOnClickListener()
         {
-            clickDisplay.text = "Red was clicked"
+            clickDisplay.text = "Roses are red"
         }
         clickMeButton1.setOnClickListener()
         {
